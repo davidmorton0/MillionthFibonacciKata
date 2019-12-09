@@ -2,6 +2,9 @@
 
 Solution for Codewars problem: The Millionth Fibonacci Kata - 3 kyu
 
+Uses the approach in Method 6 from: https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+to calculate the the answer in O(Log n) Time
+
 Details:
 
 The year is 1214. One night, Pope Innocent III awakens to find the the archangel Gabriel floating before him. Gabriel thunders to the pope:
